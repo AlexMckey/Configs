@@ -7,3 +7,8 @@
 	ui = true
 [core]
 	editor = code
+[alias]
+	lg = log --pretty=format:'%h  %ar: %s'
+	last = log -1 HEAD
+	st = status
+	cm = commit
