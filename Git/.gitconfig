@@ -1,0 +1,9 @@
+[user]
+	name = Alex Mc'key
+	email = mckey2002@yandex.ru
+[credential]
+	helper = manager
+[color]
+	ui = true
+[core]
+	editor = code
