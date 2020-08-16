@@ -6,7 +6,7 @@
 [color]
 	ui = true
 [core]
-	editor = code
+	editor = nano
 [alias]
 	lg = log --pretty=format:'%h  %ar: %s'
 	last = log -1 HEAD
